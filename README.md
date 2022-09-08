@@ -17,3 +17,6 @@
 - Model fitting
 - Model evaluation.
 - Forming confusion matrix. End
+
+# The link to dataset is here , since it is a very big file .
+link : https://www.kaggle.com/datasets/rmisra/news-category-dataset
